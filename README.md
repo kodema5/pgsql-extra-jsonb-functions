@@ -1,6 +1,6 @@
 # pgsql-extra-jsonb-functions
 
-a few extra jsonb functions for
+a few extra jsonb functions
 
 ## install
 
